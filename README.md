@@ -9,8 +9,8 @@ Steps 1
  * [x] buat file baru dalam direktori bernama README.md
 	> Changes files / Untaggubg file - file yang berubah /o/
 	> Stagging files = files yang sudah di add dan siap di commit
- * [ ] mengenal file 'Changes', 'Staging', dan 'Commited'
- * [ ] menggunakan git status, git add, git commit -> code
+ * [x]mengenal file 'Changes', 'Staging', dan 'Commited'
+ * [x] menggunakan git status, git add, git commit -> code
 	```
 	$ git init
 	$ git status
