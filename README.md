@@ -20,3 +20,4 @@ Steps 1
  * [ ] melakukan penambahan file
  * [ ] intro github
  * [ ] remote repo -> code
+ * [ ] perubahan title index
